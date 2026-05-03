@@ -10,7 +10,7 @@ You also have a profile that you can edit :).
 
 ### And the most important thing is to have fun 😁.
 
-Let me tell you how to run this code.
+Let us tell you how to run this code.
 
 ### 1.Clone this repository
 ```terminal
@@ -60,7 +60,7 @@ When you create your team you will be able to manage the team schedule, with who
 
 After that you are able to create scheme which will be your dream team scheme.
 
-I choosed the most 4 popular schemes for you to try.
+We choosed the most 4 popular schemes for you to try.
 
 When you create scheme, you create League. It should be football league as Premier League, LaLiga and etc.
 
@@ -70,37 +70,32 @@ And last you create player who you can see on the scheme, and edit and delete. �
 
 ### Rest Functionalities
 
-At first I really liked to try rest.
+At first we really liked to try rest.
 
-I added 6 rest endpoints and made the players view restful.
+we added 6 rest endpoints and made the players view restful.
 
-If you want to try full rest capabilites, I recommend you to download Postman and try it there in the urls I have displayed.
+If you want to try full rest capabilites, we recommend you to download Postman and try it there in the urls we have displayed.
 
 ### Extending the user
 
-I extended the base django user so you can login and register with email, not username
+We extended the base django user so you can login and register with email, not username
 
-For me it is so nice feature and so entertaining.
+For us it is so nice feature and so entertaining.
 
-I also have added a Profile model which also you can edit, put profile picture, change date of birth, and have fun with. 😁
+We also have added a Profile model which also you can edit, put profile picture, change date of birth, and have fun with. 😁
 
 ### Django Tests
 
-I have have also added 13 tests.
+We have have also added 13 tests.
 
 Some of them are form forms, views, models.
 
 
 ### Prevented url attacks
 
-I have also prevented url attacks so no one will get your players or your profile.
+We have also prevented url attacks so no one will get your players or your profile.
 
 This is for more security and privacy updates.😁
-
-### Deployed the project
-I also deployed the project so you can view it!
-
-Try it all have fun and feel how it is to be a coach :)
 
 ### Example for user so you can try it.
 
